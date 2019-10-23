@@ -1,0 +1,1 @@
+- [x] execで`npm init -y`すると、自分でやるのと同じようにpackage.jsonが生成される 
